@@ -55,7 +55,4 @@ print(data_pivoted)
 
 
 
-
-
-
 print("Done!")
