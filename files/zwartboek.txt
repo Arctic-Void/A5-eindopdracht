@@ -1,0 +1,381 @@
+     datum               team1               team2 uitslag scheidsrechter  overtredingen
+26-12-2022        Sexbierum FC        De Kwakel FC     5-3    van der Pol              5
+12-01-2023       Rijsbergen FC  FC Santpoort-Noord     5-0    van der Pol              3
+12-01-2023        De Kwakel FC FC Hantumeruitburen     1-0     van Gemert              2
+12-01-2023           FC Drempt           FC Brakel     0-5        Scherms              0
+12-01-2023           FC Drempt     Dinamo Bocholtz     5-2        Scherms              3
+12-01-2023           Feyenoord       Rijsbergen FC     4-5        Glasses              3
+12-01-2023        FC Oldenzijl     Atletico Madrid     2-4     Boudewijns              8
+12-01-2023             Epse FC FC Hantumeruitburen     5-3        Glasses              1
+12-01-2023  Snelrewaard United           FC Brakel     2-2          Rijks              3
+12-01-2023          FC Ritthem        Sexbierum FC     2-0        Heijmen              2
+12-01-2023     Atletico Madrid FC Hantumeruitburen     0-1         Schenk              4
+12-01-2023        Sexbierum FC             Epse FC     3-4          Rijks             98
+12-01-2023           FC Brakel       Rijsbergen FC     0-1     van Gemert              1
+11-01-2023 FC Hantumeruitburen          FC Ritthem     2-2        van Dam              8
+11-01-2023        FC Oldenzijl        Sexbierum FC     5-4    van der Pol             63
+11-01-2023 FC Hantumeruitburen     Dinamo Bocholtz     5-4         Schenk              2
+11-01-2023       Rijsbergen FC           FC Drempt     2-3          Rijks              2
+11-01-2023        FC Zuidvelde             Epse FC     4-2         Schenk              3
+11-01-2023  Snelrewaard United       Rijsbergen FC     3-5        van Dam              9
+11-01-2023       Rijsbergen FC        FC Zuidvelde     0-3        Heijmen              0
+11-01-2023           Feyenoord     Atletico Madrid     0-1          Rijks              1
+11-01-2023        ADO Den Haag           Liverpool     1-4        van Dam              2
+12-01-2023           Feyenoord      Maasdam United     2-0    van der Pol              5
+12-01-2023           Liverpool       Rijsbergen FC     2-3        Scherms              1
+10-01-2023        ADO Den Haag           Feyenoord     3-3        van Dam              2
+13-01-2023       Rijsbergen FC           Feyenoord     0-2         Schenk              1
+14-01-2023        Sexbierum FC           FC Brakel     5-5    Hoedemakers              3
+14-01-2023        De Kwakel FC           FC Drempt     5-0        Scherms              9
+14-01-2023        FC Zuidvelde       Rijsbergen FC     2-0        Heijmen              2
+14-01-2023        De Kwakel FC        FC Oldenzijl     2-2        Scherms              4
+14-01-2023  Snelrewaard United  FC Santpoort-Noord     5-2    van der Pol              2
+14-01-2023          FC Ritthem           Feyenoord     5-3        van Dam             10
+14-01-2023             Epse FC           Liverpool     0-0        Heijmen              3
+14-01-2023        FC Zuidvelde           Feyenoord     5-2          Rijks              6
+13-01-2023       Rijsbergen FC           Liverpool     1-1     van Gemert             10
+13-01-2023       Rijsbergen FC           NAC Breda     1-2        van Dam              1
+13-01-2023  Snelrewaard United           NAC Breda     4-4    van der Pol              2
+13-01-2023           Liverpool  FC Santpoort-Noord     5-3    Hoedemakers              7
+13-01-2023        FC Oldenzijl           FC Drempt     3-1    van der Pol              5
+13-01-2023          FC Ritthem           Barcelona     4-0        Scherms              2
+13-01-2023     Dinamo Bocholtz        FC Oldenzijl     3-3        Scherms              3
+13-01-2023        De Kwakel FC        FC Zuidvelde     3-2     Boudewijns              1
+13-01-2023           Barcelona           NAC Breda     1-2     Boudewijns              0
+13-01-2023        De Kwakel FC           Liverpool     3-0    Hoedemakers              8
+13-01-2023        De Kwakel FC       Rijsbergen FC     3-1        van Dam              0
+13-01-2023           FC Drempt FC Hantumeruitburen     4-5        Scherms              6
+11-01-2023        Sexbierum FC           NAC Breda     0-4          Rijks              9
+10-01-2023        FC Zuidvelde           Barcelona     4-5        Heijmen              9
+26-12-2022             Epse FC           FC Drempt     4-4        Heijmen              1
+09-01-2023     Atletico Madrid           Barcelona     4-5          Rijks              9
+09-01-2023  Snelrewaard United        FC Zuidvelde     0-4     van Gemert              0
+09-01-2023        ADO Den Haag           NAC Breda     3-5    van der Pol              1
+09-01-2023             Epse FC           Barcelona     2-4     van Gemert              1
+09-01-2023          FC Ritthem  Snelrewaard United     3-1    van der Pol              1
+09-01-2023       Rijsbergen FC        De Kwakel FC     2-3        van Dam              5
+09-01-2023       Rijsbergen FC     Atletico Madrid     3-2        Glasses              3
+09-01-2023           NAC Breda           FC Brakel     4-4        van Dam              3
+09-01-2023        Sexbierum FC     Dinamo Bocholtz     2-0        van Dam              4
+09-01-2023      Maasdam United     Atletico Madrid     3-2     Boudewijns              5
+09-01-2023          FC Ritthem FC Hantumeruitburen     0-2         Schenk              3
+09-01-2023     Atletico Madrid           FC Brakel     0-1     Boudewijns             10
+09-01-2023           FC Drempt             Epse FC     3-2    van der Pol              8
+09-01-2023           FC Drempt     Atletico Madrid     0-1        Glasses              1
+09-01-2023     Atletico Madrid        FC Oldenzijl     5-2    Hoedemakers              3
+09-01-2023        ADO Den Haag          FC Ritthem     4-0        Glasses              1
+09-01-2023        ADO Den Haag  FC Santpoort-Noord     5-1        van Dam              2
+09-01-2023     Dinamo Bocholtz           FC Brakel     2-0         Schenk              1
+09-01-2023  FC Santpoort-Noord        De Kwakel FC     3-3        van Dam              1
+09-01-2023  FC Santpoort-Noord           Liverpool     2-1    Hoedemakers             42
+09-01-2023     Dinamo Bocholtz  FC Santpoort-Noord     5-0        Glasses              2
+09-01-2023       Rijsbergen FC     Dinamo Bocholtz     5-1        Scherms             67
+09-01-2023           FC Brakel           Barcelona     2-0        Glasses              9
+10-01-2023        FC Oldenzijl        De Kwakel FC     1-2        van Dam              3
+10-01-2023           FC Brakel             Epse FC     1-3        Heijmen              3
+10-01-2023  FC Santpoort-Noord  Snelrewaard United     5-5        Heijmen              3
+10-01-2023        Sexbierum FC     Atletico Madrid     2-5         Schenk              1
+10-01-2023        FC Oldenzijl      Maasdam United     4-3        Glasses              3
+10-01-2023     Dinamo Bocholtz        ADO Den Haag     5-4    Hoedemakers              3
+10-01-2023             Epse FC     Dinamo Bocholtz     2-1     Boudewijns              7
+10-01-2023        FC Oldenzijl           Barcelona     3-5     Boudewijns              2
+10-01-2023             Epse FC           NAC Breda     4-3    Hoedemakers             62
+10-01-2023           NAC Breda           FC Drempt     0-1        Heijmen              3
+10-01-2023       Rijsbergen FC        Sexbierum FC     1-3        Glasses              5
+10-01-2023        Sexbierum FC           Liverpool     0-5    Hoedemakers              0
+09-01-2023           NAC Breda        De Kwakel FC     2-3     Boudewijns              2
+10-01-2023 FC Hantumeruitburen        FC Oldenzijl     1-4    van der Pol              1
+10-01-2023           Barcelona        FC Oldenzijl     4-3        van Dam              8
+10-01-2023     Atletico Madrid          FC Ritthem     0-2     Boudewijns              4
+10-01-2023     Atletico Madrid  Snelrewaard United     0-5         Schenk              2
+10-01-2023     Atletico Madrid        ADO Den Haag     5-4        Glasses              6
+10-01-2023        De Kwakel FC  FC Santpoort-Noord     2-1     Boudewijns              7
+10-01-2023           Liverpool     Dinamo Bocholtz     2-3     Boudewijns             75
+10-01-2023           Liverpool           Feyenoord     1-5     Boudewijns              9
+10-01-2023           Liverpool        FC Zuidvelde     4-5          Rijks             46
+14-01-2023        FC Zuidvelde          FC Ritthem     2-3    van der Pol              1
+14-01-2023        FC Oldenzijl           Feyenoord     1-2         Schenk             82
+14-01-2023  Snelrewaard United           Feyenoord     3-2         Schenk              2
+19-01-2023 FC Hantumeruitburen        Sexbierum FC     1-0    Hoedemakers              1
+20-01-2023             Epse FC        ADO Den Haag     2-0         Schenk              1
+20-01-2023        FC Zuidvelde        FC Oldenzijl     5-1        Glasses              1
+20-01-2023        De Kwakel FC      Maasdam United     5-4          Rijks              3
+19-01-2023           Liverpool           NAC Breda     0-1    van der Pol              1
+19-01-2023     Atletico Madrid             Epse FC     0-0         Schenk              1
+19-01-2023        De Kwakel FC  Snelrewaard United     0-0         Schenk              4
+19-01-2023           Feyenoord           Liverpool     0-2        Heijmen              7
+19-01-2023 FC Hantumeruitburen        FC Zuidvelde     0-2        Heijmen              2
+19-01-2023     Atletico Madrid           NAC Breda     3-3          Rijks              3
+19-01-2023        FC Zuidvelde     Dinamo Bocholtz     3-2    van der Pol              0
+20-01-2023     Dinamo Bocholtz  Snelrewaard United     5-5        van Dam              9
+19-01-2023           NAC Breda             Epse FC     1-1     van Gemert              7
+19-01-2023           NAC Breda           Feyenoord     1-3     van Gemert              0
+19-01-2023      Maasdam United FC Hantumeruitburen     1-3          Rijks              0
+19-01-2023           FC Drempt           NAC Breda     5-2         Schenk              6
+19-01-2023           FC Drempt        ADO Den Haag     0-3     Boudewijns              4
+19-01-2023  FC Santpoort-Noord           FC Drempt     5-1     Boudewijns             81
+19-01-2023        ADO Den Haag  Snelrewaard United     0-3        Scherms              9
+19-01-2023     Dinamo Bocholtz     Atletico Madrid     5-0         Schenk             77
+19-01-2023             Epse FC        FC Zuidvelde     5-1        Scherms              6
+20-01-2023        ADO Den Haag        FC Zuidvelde     5-3     Boudewijns              9
+20-01-2023          FC Ritthem        FC Zuidvelde     4-3         Schenk              3
+14-01-2023       Rijsbergen FC      Maasdam United     3-2     van Gemert              1
+21-01-2023        FC Zuidvelde FC Hantumeruitburen     5-1    van der Pol             10
+21-01-2023        FC Zuidvelde     Atletico Madrid     1-4        Heijmen             77
+21-01-2023        FC Oldenzijl           Liverpool     3-0        van Dam              1
+21-01-2023        FC Oldenzijl  Snelrewaard United     0-5     van Gemert              0
+21-01-2023     Atletico Madrid           FC Drempt     5-5          Rijks              5
+21-01-2023        ADO Den Haag     Atletico Madrid     2-1     van Gemert             10
+21-01-2023           Feyenoord        Sexbierum FC     2-1    van der Pol              3
+21-01-2023 FC Hantumeruitburen           Barcelona     3-1         Schenk              3
+21-01-2023     Atletico Madrid           Feyenoord     5-2          Rijks              1
+21-01-2023           Liverpool           FC Brakel     2-2         Schenk              5
+21-01-2023     Dinamo Bocholtz FC Hantumeruitburen     1-4    Hoedemakers              0
+20-01-2023           Barcelona           FC Brakel     5-3        Glasses              3
+21-01-2023           FC Brakel        FC Oldenzijl     5-2        Glasses              4
+21-01-2023           FC Brakel  Snelrewaard United     0-3     van Gemert             25
+21-01-2023             Epse FC     Atletico Madrid     4-1        van Dam              1
+21-01-2023           FC Brakel           FC Drempt     2-0    Hoedemakers              3
+21-01-2023           FC Brakel        Sexbierum FC     5-0        Scherms             10
+21-01-2023  FC Santpoort-Noord       Rijsbergen FC     1-5     van Gemert              1
+20-01-2023           NAC Breda        FC Oldenzijl     2-2    Hoedemakers              1
+20-01-2023           Barcelona        FC Zuidvelde     3-3    Hoedemakers              3
+20-01-2023           Barcelona  FC Santpoort-Noord     1-3     Boudewijns              0
+19-01-2023        FC Zuidvelde  FC Santpoort-Noord     1-4    van der Pol             10
+19-01-2023        Sexbierum FC          FC Ritthem     2-2        van Dam              3
+18-01-2023           Feyenoord          FC Ritthem     5-0          Rijks              0
+15-01-2023  Snelrewaard United        De Kwakel FC     5-2    van der Pol              1
+16-01-2023      Maasdam United           FC Drempt     5-3         Schenk              5
+16-01-2023 FC Hantumeruitburen  FC Santpoort-Noord     1-2        Glasses              1
+16-01-2023           Feyenoord        FC Oldenzijl     4-4        Glasses              3
+16-01-2023        FC Zuidvelde           FC Drempt     5-1        Glasses              0
+16-01-2023             Epse FC        De Kwakel FC     2-5         Schenk             30
+15-01-2023        FC Zuidvelde           FC Brakel     2-4        Glasses              0
+15-01-2023        FC Oldenzijl           FC Brakel     1-4    Hoedemakers              1
+15-01-2023             Epse FC  FC Santpoort-Noord     5-2        Glasses              0
+15-01-2023           FC Drempt      Maasdam United     4-3        van Dam              4
+15-01-2023        Sexbierum FC        ADO Den Haag     2-4        Scherms             61
+18-01-2023        FC Zuidvelde           NAC Breda     2-3        van Dam              2
+15-01-2023           Feyenoord FC Hantumeruitburen     2-0        Glasses              7
+15-01-2023           FC Brakel     Dinamo Bocholtz     1-5        Scherms             33
+15-01-2023           Liverpool FC Hantumeruitburen     1-5     Boudewijns              0
+15-01-2023        Sexbierum FC           FC Drempt     0-5     van Gemert              1
+15-01-2023          FC Ritthem      Maasdam United     2-0         Schenk              2
+15-01-2023  FC Santpoort-Noord          FC Ritthem     4-2          Rijks              1
+15-01-2023 FC Hantumeruitburen           FC Drempt     3-1    van der Pol              2
+15-01-2023  FC Santpoort-Noord           Feyenoord     2-5    van der Pol              8
+14-01-2023       Rijsbergen FC        FC Oldenzijl     3-0    van der Pol              8
+16-01-2023     Dinamo Bocholtz        FC Zuidvelde     2-4        Glasses              4
+16-01-2023        FC Oldenzijl FC Hantumeruitburen     0-2        van Dam              2
+16-01-2023           NAC Breda     Atletico Madrid     0-4        van Dam              0
+16-01-2023  Snelrewaard United           Liverpool     4-3     Boudewijns              0
+18-01-2023     Atletico Madrid      Maasdam United     4-4         Schenk             49
+18-01-2023        Sexbierum FC           Feyenoord     0-3    van der Pol              7
+18-01-2023     Atletico Madrid       Rijsbergen FC     4-5         Schenk              9
+18-01-2023             Epse FC        FC Oldenzijl     2-5          Rijks              9
+18-01-2023           FC Brakel        FC Zuidvelde     4-0     Boudewijns              0
+18-01-2023        FC Oldenzijl          FC Ritthem     1-5        van Dam              1
+17-01-2023          FC Ritthem           Liverpool     0-2        Scherms              3
+17-01-2023  Snelrewaard United          FC Ritthem     0-0     van Gemert              2
+17-01-2023      Maasdam United           Feyenoord     3-4          Rijks              1
+17-01-2023        Sexbierum FC        FC Zuidvelde     0-1        Glasses              2
+17-01-2023     Dinamo Bocholtz           Barcelona     4-5        Scherms              4
+17-01-2023      Maasdam United          FC Ritthem     2-5        Heijmen              4
+17-01-2023        De Kwakel FC     Dinamo Bocholtz     2-4          Rijks              1
+17-01-2023          FC Ritthem             Epse FC     4-3        Glasses              1
+17-01-2023           Feyenoord        FC Zuidvelde     5-1     Boudewijns              6
+17-01-2023           FC Brakel          FC Ritthem     5-4     van Gemert              5
+17-01-2023  Snelrewaard United     Atletico Madrid     0-5        van Dam              0
+17-01-2023        ADO Den Haag        Sexbierum FC     4-2          Rijks              3
+17-01-2023  Snelrewaard United FC Hantumeruitburen     4-0     Boudewijns              1
+09-01-2023     Dinamo Bocholtz           FC Drempt     2-3     van Gemert             19
+08-01-2023           Barcelona FC Hantumeruitburen     5-5        Scherms             91
+08-01-2023           NAC Breda        ADO Den Haag     1-2    van der Pol             58
+30-12-2022       Rijsbergen FC        ADO Den Haag     2-5    Hoedemakers              6
+31-12-2022           FC Brakel        De Kwakel FC     3-3         Schenk              9
+31-12-2022           Feyenoord           FC Brakel     1-5         Schenk             10
+31-12-2022             Epse FC           Feyenoord     2-3        Heijmen              1
+31-12-2022           NAC Breda  Snelrewaard United     4-5        van Dam              5
+31-12-2022           FC Drempt  Snelrewaard United     3-4     van Gemert              2
+31-12-2022        De Kwakel FC           Feyenoord     5-2          Rijks              0
+31-12-2022        De Kwakel FC           Barcelona     4-3        van Dam             92
+31-12-2022 FC Hantumeruitburen           FC Brakel     4-5         Schenk             30
+30-12-2022           NAC Breda     Dinamo Bocholtz     3-2     Boudewijns              2
+30-12-2022           Barcelona  Snelrewaard United     0-2    Hoedemakers              3
+31-12-2022           Barcelona          FC Ritthem     2-1    van der Pol              1
+30-12-2022           Barcelona       Rijsbergen FC     0-5     van Gemert              4
+30-12-2022  FC Santpoort-Noord     Atletico Madrid     3-1    Hoedemakers              3
+30-12-2022  Snelrewaard United        Sexbierum FC     1-1         Schenk              8
+29-12-2022           FC Brakel           Feyenoord     3-1        van Dam              0
+29-12-2022        Sexbierum FC      Maasdam United     1-5         Schenk              6
+29-12-2022             Epse FC          FC Ritthem     2-0        Glasses              2
+29-12-2022     Dinamo Bocholtz             Epse FC     2-1        Glasses              0
+29-12-2022      Maasdam United           Liverpool     3-1    Hoedemakers              0
+29-12-2022 FC Hantumeruitburen           Feyenoord     4-4        Heijmen              9
+31-12-2022           Barcelona           FC Drempt     0-2         Schenk             10
+31-12-2022      Maasdam United        FC Zuidvelde     1-1    van der Pol              0
+02-01-2023  Snelrewaard United        FC Oldenzijl     5-3        Heijmen              3
+01-01-2023        De Kwakel FC     Atletico Madrid     2-1        van Dam              2
+02-01-2023             Epse FC        Sexbierum FC     1-4     van Gemert              0
+02-01-2023           FC Brakel     Atletico Madrid     2-0        Heijmen              0
+02-01-2023        Sexbierum FC           Barcelona     0-2        Heijmen              3
+02-01-2023           NAC Breda      Maasdam United     2-5        Heijmen              2
+02-01-2023        ADO Den Haag FC Hantumeruitburen     1-5        van Dam              3
+02-01-2023           Liverpool     Atletico Madrid     1-2         Schenk              3
+02-01-2023      Maasdam United       Rijsbergen FC     5-2     van Gemert              8
+01-01-2023 FC Hantumeruitburen           NAC Breda     1-4          Rijks              9
+01-01-2023          FC Ritthem  FC Santpoort-Noord     4-1         Schenk             44
+01-01-2023        De Kwakel FC        ADO Den Haag     5-4         Schenk              0
+31-12-2022        Sexbierum FC       Rijsbergen FC     1-3        Glasses              3
+01-01-2023           FC Drempt           Liverpool     3-3        van Dam             10
+01-01-2023           Feyenoord        De Kwakel FC     4-4     van Gemert              2
+01-01-2023     Atletico Madrid     Dinamo Bocholtz     5-4        Scherms              1
+01-01-2023           Barcelona        De Kwakel FC     5-4     Boudewijns              8
+01-01-2023           Liverpool             Epse FC     1-1        Glasses             10
+01-01-2023        ADO Den Haag      Maasdam United     0-0          Rijks              5
+31-12-2022        Sexbierum FC FC Hantumeruitburen     4-5        Heijmen             10
+31-12-2022        FC Oldenzijl             Epse FC     0-0    van der Pol              2
+31-12-2022  Snelrewaard United           Barcelona     5-5    Hoedemakers              2
+29-12-2022           Barcelona        Sexbierum FC     2-3         Schenk              1
+29-12-2022        FC Oldenzijl        ADO Den Haag     4-1        Heijmen              3
+29-12-2022        ADO Den Haag           FC Drempt     1-3        van Dam              7
+27-12-2022      Maasdam United           Barcelona     2-2        Scherms              1
+28-12-2022     Dinamo Bocholtz           Liverpool     4-2        van Dam              0
+27-12-2022 FC Hantumeruitburen      Maasdam United     2-3        Scherms              6
+27-12-2022     Atletico Madrid        Sexbierum FC     5-3     Boudewijns              7
+27-12-2022           Liverpool          FC Ritthem     4-5          Rijks              3
+27-12-2022          FC Ritthem        De Kwakel FC     4-3     van Gemert              0
+27-12-2022       Rijsbergen FC           Barcelona     0-4        Heijmen              2
+27-12-2022           Feyenoord  FC Santpoort-Noord     2-2        Heijmen              1
+27-12-2022       Rijsbergen FC  Snelrewaard United     4-1     van Gemert              3
+27-12-2022           NAC Breda           Liverpool     2-1     Boudewijns              4
+27-12-2022           FC Drempt           Feyenoord     3-2    van der Pol             56
+29-12-2022        FC Oldenzijl       Rijsbergen FC     2-2          Rijks              7
+27-12-2022           FC Drempt       Rijsbergen FC     1-2        van Dam              0
+27-12-2022           FC Drempt        Sexbierum FC     3-2        Glasses              5
+27-12-2022  FC Santpoort-Noord             Epse FC     1-0        Scherms              5
+26-12-2022          FC Ritthem     Dinamo Bocholtz     0-2    van der Pol              3
+26-12-2022        FC Zuidvelde      Maasdam United     3-5         Schenk              0
+26-12-2022     Dinamo Bocholtz          FC Ritthem     1-3        Glasses              6
+26-12-2022           Liverpool  Snelrewaard United     4-2        Scherms              8
+26-12-2022  Snelrewaard United           FC Drempt     0-0     Boudewijns             95
+26-12-2022      Maasdam United     Dinamo Bocholtz     4-3          Rijks              5
+28-12-2022      Maasdam United           NAC Breda     4-0         Schenk              3
+28-12-2022 FC Hantumeruitburen        ADO Den Haag     5-5        van Dam              3
+28-12-2022          FC Ritthem           NAC Breda     1-0         Schenk              5
+28-12-2022  FC Santpoort-Noord           NAC Breda     2-2     Boudewijns              0
+29-12-2022     Atletico Madrid  FC Santpoort-Noord     4-0        van Dam              3
+29-12-2022      Maasdam United        FC Oldenzijl     5-5     Boudewijns              2
+29-12-2022  Snelrewaard United      Maasdam United     1-0    Hoedemakers              4
+29-12-2022           FC Drempt           Barcelona     5-2    van der Pol              1
+29-12-2022           Barcelona     Dinamo Bocholtz     0-2         Schenk              1
+29-12-2022 FC Hantumeruitburen           Liverpool     0-3    Hoedemakers              4
+29-12-2022  FC Santpoort-Noord        FC Oldenzijl     2-0        van Dam              0
+28-12-2022           FC Brakel  FC Santpoort-Noord     5-0        Glasses              1
+28-12-2022        ADO Den Haag     Dinamo Bocholtz     5-2     Boudewijns              4
+28-12-2022           Barcelona      Maasdam United     1-3        Heijmen              9
+28-12-2022        ADO Den Haag       Rijsbergen FC     1-2     Boudewijns             40
+28-12-2022           Feyenoord           FC Drempt     1-4     Boudewijns              3
+28-12-2022 FC Hantumeruitburen        De Kwakel FC     2-0        Glasses              9
+28-12-2022             Epse FC  Snelrewaard United     3-4        van Dam              1
+28-12-2022           Liverpool        Sexbierum FC     3-3     van Gemert              3
+28-12-2022  FC Santpoort-Noord        Sexbierum FC     4-0         Schenk              0
+28-12-2022  FC Santpoort-Noord      Maasdam United     5-3        Glasses              3
+28-12-2022           NAC Breda  FC Santpoort-Noord     2-4        Scherms              8
+28-12-2022           NAC Breda        FC Zuidvelde     5-1     Boudewijns              3
+02-01-2023           Barcelona        ADO Den Haag     2-5    van der Pol              6
+02-01-2023           Liverpool           FC Drempt     5-1          Rijks              0
+08-01-2023        FC Oldenzijl     Dinamo Bocholtz     0-5          Rijks              2
+06-01-2023           NAC Breda       Rijsbergen FC     4-5        Scherms              9
+07-01-2023           Barcelona             Epse FC     1-3         Schenk              2
+07-01-2023        De Kwakel FC        Sexbierum FC     2-3    van der Pol             10
+07-01-2023           Barcelona           Feyenoord     0-3          Rijks              0
+07-01-2023     Atletico Madrid        FC Zuidvelde     3-0    Hoedemakers              0
+07-01-2023           FC Brakel      Maasdam United     1-4    van der Pol              2
+06-01-2023        ADO Den Haag           Barcelona     3-0         Schenk              3
+06-01-2023           FC Brakel FC Hantumeruitburen     0-1        Heijmen              2
+06-01-2023     Atletico Madrid        De Kwakel FC     1-3        Scherms             68
+06-01-2023      Maasdam United             Epse FC     1-4          Rijks              0
+06-01-2023        FC Zuidvelde  Snelrewaard United     0-4        Glasses              3
+07-01-2023           FC Drempt        FC Oldenzijl     0-5        Scherms             20
+06-01-2023        FC Zuidvelde        De Kwakel FC     3-0        Heijmen              3
+06-01-2023     Dinamo Bocholtz        Sexbierum FC     2-2     Boudewijns              8
+06-01-2023           NAC Breda          FC Ritthem     3-2         Schenk              2
+06-01-2023 FC Hantumeruitburen       Rijsbergen FC     1-3         Schenk              0
+06-01-2023      Maasdam United  FC Santpoort-Noord     4-5        van Dam              5
+06-01-2023           NAC Breda FC Hantumeruitburen     1-3        Heijmen              5
+06-01-2023 FC Hantumeruitburen             Epse FC     3-1     van Gemert              8
+06-01-2023       Rijsbergen FC FC Hantumeruitburen     2-5     van Gemert              3
+06-01-2023        Sexbierum FC        FC Oldenzijl     5-0        Glasses              5
+07-01-2023 FC Hantumeruitburen     Atletico Madrid     4-5        van Dam              1
+07-01-2023           Liverpool        FC Oldenzijl     2-5        van Dam              1
+02-01-2023  FC Santpoort-Noord           FC Brakel     5-0        van Dam              9
+08-01-2023        ADO Den Haag        FC Oldenzijl     5-3    van der Pol              4
+08-01-2023     Dinamo Bocholtz           NAC Breda     3-1     van Gemert              8
+08-01-2023             Epse FC       Rijsbergen FC     4-5        Heijmen              3
+08-01-2023        De Kwakel FC           NAC Breda     3-0        van Dam              0
+08-01-2023           FC Drempt  FC Santpoort-Noord     2-2        Glasses              3
+08-01-2023           FC Drempt        FC Zuidvelde     2-2     van Gemert              2
+08-01-2023        De Kwakel FC             Epse FC     2-0          Rijks              0
+08-01-2023  Snelrewaard United        ADO Den Haag     0-2        Glasses              3
+08-01-2023  FC Santpoort-Noord        FC Zuidvelde     5-3     Boudewijns              3
+08-01-2023     Dinamo Bocholtz      Maasdam United     2-3        Scherms              2
+08-01-2023     Dinamo Bocholtz       Rijsbergen FC     3-3    Hoedemakers              3
+07-01-2023           Feyenoord             Epse FC     4-3          Rijks             84
+08-01-2023        ADO Den Haag           FC Brakel     0-0     Boudewijns              1
+08-01-2023  Snelrewaard United             Epse FC     1-0    van der Pol              4
+08-01-2023           Feyenoord  Snelrewaard United     2-3          Rijks              4
+07-01-2023     Atletico Madrid           Liverpool     1-2        Heijmen              1
+07-01-2023           Feyenoord     Dinamo Bocholtz     4-1        van Dam              1
+07-01-2023           NAC Breda           Barcelona     0-4    Hoedemakers              2
+07-01-2023           Feyenoord           Barcelona     1-5         Schenk             13
+07-01-2023          FC Ritthem       Rijsbergen FC     1-1        van Dam              2
+07-01-2023      Maasdam United        De Kwakel FC     0-3    Hoedemakers             92
+06-01-2023        Sexbierum FC  Snelrewaard United     4-2         Schenk              2
+06-01-2023  Snelrewaard United     Dinamo Bocholtz     3-0    van der Pol              9
+06-01-2023           Liverpool        ADO Den Haag     5-5        Heijmen              7
+03-01-2023      Maasdam United        Sexbierum FC     4-1         Schenk              1
+03-01-2023             Epse FC           FC Brakel     2-2     van Gemert              5
+03-01-2023        ADO Den Haag        De Kwakel FC     4-5        Scherms              8
+03-01-2023           FC Brakel        ADO Den Haag     0-5    van der Pol              0
+03-01-2023           Liverpool      Maasdam United     3-3        Heijmen             10
+03-01-2023  FC Santpoort-Noord FC Hantumeruitburen     1-0        van Dam              6
+03-01-2023       Rijsbergen FC             Epse FC     5-0     Boudewijns              4
+03-01-2023     Dinamo Bocholtz        De Kwakel FC     1-5        Glasses              7
+03-01-2023        ADO Den Haag             Epse FC     1-5        Scherms              1
+03-01-2023           Liverpool           Barcelona     2-0     van Gemert              0
+03-01-2023      Maasdam United        ADO Den Haag     5-2        Heijmen              3
+06-01-2023           FC Brakel           NAC Breda     4-5        Heijmen              3
+03-01-2023             Epse FC      Maasdam United     4-4        van Dam              8
+03-01-2023  FC Santpoort-Noord           Barcelona     0-4         Schenk              1
+03-01-2023      Maasdam United  Snelrewaard United     4-4        van Dam              8
+02-01-2023          FC Ritthem     Atletico Madrid     1-3     Boudewijns              8
+02-01-2023        FC Zuidvelde        Sexbierum FC     3-4     van Gemert              3
+02-01-2023       Rijsbergen FC           FC Brakel     1-1        Scherms             61
+02-01-2023        Sexbierum FC  FC Santpoort-Noord     2-3    van der Pol              3
+02-01-2023        FC Oldenzijl           NAC Breda     3-4    van der Pol              0
+02-01-2023     Dinamo Bocholtz           Feyenoord     3-2    Hoedemakers              3
+03-01-2023        De Kwakel FC           FC Brakel     0-2    Hoedemakers              3
+04-01-2023           Barcelona     Atletico Madrid     4-3     van Gemert              1
+04-01-2023       Rijsbergen FC          FC Ritthem     0-0        Scherms              3
+04-01-2023           Feyenoord        ADO Den Haag     3-2         Schenk              8
+05-01-2023           NAC Breda        Sexbierum FC     3-1    Hoedemakers              2
+05-01-2023        FC Oldenzijl  FC Santpoort-Noord     2-5         Schenk              1
+05-01-2023           Liverpool        De Kwakel FC     4-0    van der Pol              1
+05-01-2023           Barcelona           Liverpool     1-4     van Gemert              0
+05-01-2023          FC Ritthem        FC Oldenzijl     2-4        Scherms              6
+05-01-2023        FC Zuidvelde        ADO Den Haag     2-3        Glasses              3
+05-01-2023 FC Hantumeruitburen  Snelrewaard United     3-2    van der Pol             64
+05-01-2023  FC Santpoort-Noord        ADO Den Haag     1-2     Boudewijns              2
+04-01-2023          FC Ritthem        ADO Den Haag     1-4        Glasses              1
+04-01-2023      Maasdam United           FC Brakel     4-1        Glasses              1
+04-01-2023          FC Ritthem           FC Brakel     4-3        van Dam              3
+04-01-2023           FC Drempt        De Kwakel FC     3-4        van Dam              7
+04-01-2023        De Kwakel FC          FC Ritthem     2-0     van Gemert              2
+04-01-2023          FC Ritthem           FC Drempt     0-0     van Gemert              9
+04-01-2023  FC Santpoort-Noord     Dinamo Bocholtz     3-0          Rijks              0
+04-01-2023           Feyenoord           NAC Breda     2-1    Hoedemakers              9
+04-01-2023           FC Brakel           Liverpool     3-5     van Gemert              1
+04-01-2023        FC Oldenzijl        FC Zuidvelde     3-5     van Gemert              7
+04-01-2023        FC Zuidvelde           Liverpool     5-0     Boudewijns              7
+21-01-2023           FC Drempt          FC Ritthem     0-1         Schenk              6

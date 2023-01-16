@@ -1,0 +1,6 @@
+           divisie          team1                team2      datum scheidsrechter            stadion  bezoekersaantal uitslag  overtredingen
+52   Amstel League   Sexbierum FC         De Kwakel FC 2022-12-26    van der Pol          Gelredome            32547     5-3              5
+156  Amstel League  Rijsbergen FC   FC Santpoort-Noord 2023-01-12    van der Pol     Boerakker Park            37734     5-0              3
+300  Amstel League   De Kwakel FC  FC Hantumeruitburen 2023-01-12     van Gemert         Leens Park            12987     1-0              2
+95   Amstel League      FC Drempt            FC Brakel 2023-01-12        Scherms          Gelredome            54400     0-5              0
+103  Amstel League      FC Drempt      Dinamo Bocholtz 2023-01-12        Scherms  Ryptsjerk Stadion            40864     5-2              3
