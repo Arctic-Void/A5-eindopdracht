@@ -1,6 +1,7 @@
 import pandas as pd
 from datetime import datetime
 import lib_bamboo as bamboo
+from datetime import timedelta
 import os
 
 os.system("cls") #Deze regel nog invullen! Hoe maak je het scherm leeg?
@@ -39,20 +40,24 @@ file3.close() #Deze regel nog invullen! Hoe sluit je file3?
 
 #Informatievraag 4
 #Een “eregalerij”, ofwel alle wedstrijden van de laatste 21dagen waarin maximaal één overtreding is geweest
-data["divisie"] = pd.to_datetime(data["divisie"], format = "%d/%m/%Y")
-filter = (data["divisie"] > datetime.now())
-data_filtered = data[filter]
-numDateX = data_filtered["divisie"].count()
+data["datum"] = pd.to_datetime(data["datum"], format = "%d/%m/%Y")
+today = datetime.now()
+check_date = today - timedelta(days=21)
 
-data_pivoted = data.pivot_table(
-    index = "datum",
-    columns = "divisie",
-    values = "overtredingen",
-    aggfunc = sum
-)
-print(data_pivoted)
+filter1 = (data["datum"] > check_date and data["datum"] < today)
+ereGalerij = data[filter1]
+filter2 = (data["overtredingen"] <= 1)
+ereGalerij = ereGalerij[filter2]
+print(ereGalerij)
 
 
 
 
 print("Done!")
+
+
+
+#if data["datum"] > check_date and data["datum"] < today:
+    #print(f"{data['team1']} - {data['team2']}")
+#filter1 = (data["datum"] > datetime.now())
+#ereGalerij = data[filter1]
