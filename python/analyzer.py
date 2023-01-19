@@ -4,6 +4,8 @@ import lib_bamboo as bamboo
 from datetime import timedelta
 import os
 
+eregalerijFile = open("python/eregalerij.txt", "w")
+
 os.system("cls") #Deze regel nog invullen! Hoe maak je het scherm leeg?
 print("Working...")
 
@@ -40,24 +42,22 @@ file3.close() #Deze regel nog invullen! Hoe sluit je file3?
 
 #Informatievraag 4
 #Een “eregalerij”, ofwel alle wedstrijden van de laatste 21dagen waarin maximaal één overtreding is geweest
-data["datum"] = pd.to_datetime(data["datum"], format = "%d/%m/%Y")
-today = datetime.now()
-check_date = today - timedelta(days=21)
+data["datum"] = pd.to_datetime(data["datum"], format="%d/%m/%Y")
+filter = (data["datum"] > datetime.now())
+filter2 = ((data["overtredingen"] <= 1))
+data_filtered = data[filter]
+data_filtered = data_filtered[filter2]
+data_sorted2 = data_filtered.sort_values("datum", ascending=False)
+last21 = data_sorted2.head(21)
 
-filter1 = (data["datum"] > check_date and data["datum"] < today)
-ereGalerij = data[filter1]
-filter2 = (data["overtredingen"] <= 1)
-ereGalerij = ereGalerij[filter2]
-print(ereGalerij)
+blankIndex = [''] * len(last21)
+last21.index=blankIndex
 
-
+print(last21)
+open("python/eregalerij.txt", 'w')
+eregalerijFile.write(bamboo.prettify(last21, type="eregalerij"))
 
 
 print("Done!")
 
-
-
-#if data["datum"] > check_date and data["datum"] < today:
-    #print(f"{data['team1']} - {data['team2']}")
-#filter1 = (data["datum"] > datetime.now())
-#ereGalerij = data[filter1]
+eregalerijFile.close()

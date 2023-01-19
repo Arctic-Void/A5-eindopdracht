@@ -1,1 +1,11 @@
-*
+     datum              team1               team2 uitslag scheidsrechter
+21-01-2023 FC Santpoort-Noord       Rijsbergen FC     1-5     van Gemert
+21-01-2023            Epse FC     Atletico Madrid     4-1        van Dam
+21-01-2023    Dinamo Bocholtz FC Hantumeruitburen     1-4    Hoedemakers
+21-01-2023    Atletico Madrid           Feyenoord     5-2          Rijks
+21-01-2023       FC Oldenzijl  Snelrewaard United     0-5     van Gemert
+21-01-2023       FC Oldenzijl           Liverpool     3-0        van Dam
+20-01-2023       FC Zuidvelde        FC Oldenzijl     5-1        Glasses
+20-01-2023            Epse FC        ADO Den Haag     2-0         Schenk
+20-01-2023          Barcelona  FC Santpoort-Noord     1-3     Boudewijns
+20-01-2023          NAC Breda        FC Oldenzijl     2-2    Hoedemakers
