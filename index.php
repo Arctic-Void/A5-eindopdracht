@@ -39,6 +39,8 @@
                         <p class="number">
                             <?php echo 3115 ?>
                         </p>
+                    </div>
+                    <div class="box half">
 
                         <h2>Gemiddeld per wedstrijd:</h2>
                         <p class="number"><?php echo 8 ?></p>
@@ -53,7 +55,7 @@
                         <pre><?php
                         echo file_get_contents('backend/zwartboek.txt');
                         ?></pre>
-
+            
 
                         <h2>Wedstrijden met 1 of minder overtredingen in de laatste 21 dagen:</h2>
                         <pre><?php
