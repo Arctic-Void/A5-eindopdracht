@@ -50,9 +50,15 @@
                     <div class="box">
 
                         <h2>Wedstrijden met de meeste overtredingen:</h2>
+                        <?php
+                        echo file_get_contents('backend/zwartboek.txt');
+                        ?>
 
 
                         <h2>Wedstrijden met 1 of minder overtredingen in de laatste 21 dagen:</h2>
+                        <?php
+                        echo file_get_contents('backend/eregalerij.txt');
+                        ?>
                     </div>
                 </div>
             </main>
