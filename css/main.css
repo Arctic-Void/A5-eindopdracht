@@ -143,6 +143,8 @@ h1{
     width: 100%;
     background-color: white;
     border:  #f0f0f0;
+    border-radius: 20px;
+    justify-content: center;
     /* Border afgerond, kleur #f0f0f0 */
     /* En verder af te leiden uit het voorbeeld */
 }
@@ -150,8 +152,17 @@ h1{
 .box.half{
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-bottom: 40px;
+    justify-content: center;
+  }
+  .box.half2 {
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+  }
+.box1 {
+  margin-bottom: 20px;
 }
 
 h2{

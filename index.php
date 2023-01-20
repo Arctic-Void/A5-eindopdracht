@@ -40,7 +40,7 @@
                             <?php echo 3115 ?>
                         </p>
                     </div>
-                    <div class="box half">
+                    <div class="box half2">
 
                         <h2>Gemiddeld per wedstrijd:</h2>
                         <p class="number">
@@ -52,17 +52,19 @@
 
                 <div class="column">
                     <div class="box">
+                        <div class="box1">
 
                         <h2>Wedstrijden met de meeste overtredingen:</h2>
                         <pre><?php
                         echo file_get_contents('backend/zwartboek.txt');
                         ?></pre>
-
-
+                        </div>
+                        <div class="box2">
                         <h2>Wedstrijden met 1 of minder overtredingen in de laatste 21 dagen:</h2>
                         <pre><?php
                         echo file_get_contents('backend/eregalerij.txt');
                         ?></pre>
+                        </div>
                     </div>
                 </div>
             </main>
