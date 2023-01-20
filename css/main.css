@@ -96,10 +96,14 @@ html{
     font-size: 16px;
     background-color: #f6f6f6;
 }
+.wrapper {
+  width: 70%;
+  margin: 0 auto;
+}
 
 .container{
-    
-    /* ? */
+  width: 60%;
+  margin: 0 auto;
 
 }
 
@@ -112,19 +116,22 @@ h1{
     line-height: 4rem;
     padding-left: 8px;
     margin: 0;
-
-    /* Font: "Faster One" */
+    font-family: Faster One;
 }
 
 .subtitle{
     margin-top: 0;
-
+    font-family: roboto weight 500 1.25rem;
+    font-style: italic;
     /* Font: Roboto, gewicht 500, schuingedrukt, grootte 1.25rem */
 }
 
 
 .row{
-    margin: 1.5rem 0;
+  display: flex;
+  margin: 1.5rem 0;
+  flex-direction: row;
+  justify-content: space-between;
     
     /* Display instellen zodat de inhoud naast elkaar komt (met daar wat space tussen) */
 }
@@ -132,32 +139,36 @@ h1{
 .box{
     width: 100%;
     background-color: white;
-    
+    border:  #f0f0f0;
     /* Border afgerond, kleur #f0f0f0 */
     /* En verder af te leiden uit het voorbeeld */
 }
 
 .box.half{
-    width: 48%;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     justify-content: center;
 }
 
 h2{
+    font-family: Roboto weight 500 1rem;
     /* Font: Roboto, gewicht 500, grootte 1rem */
 }
 
 p{
+    font-family: roboto;
     /* Font: Roboto */
 }
 
 p.number{
     /* Font: Roboto Mono, gewicht 500, grootte 2rem */
+    font-family: Roboto Mono weight 500 2rem;
 }
 
 pre{
     margin-top: 0.9rem;
+    font-family: Roboto Mono 0.9rem;
     /* Font: Roboto Mono, grootte 0.9rem */
 }
 
@@ -165,6 +176,7 @@ pre{
 footer{
     margin: 1.5rem 0;
     /* Font-size iets kleiner dan standaard, kleur grijs */
+    font-size: smaller grey;
 }
 
 
