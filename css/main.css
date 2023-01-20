@@ -135,6 +135,9 @@ h1{
     
     /* Display instellen zodat de inhoud naast elkaar komt (met daar wat space tussen) */
 }
+.column {
+  display: flex;
+}
 
 .box{
     width: 100%;
@@ -147,8 +150,7 @@ h1{
 .box.half{
     width: 100%;
     display: flex;
-    justify-content: space-around;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 h2{
